@@ -2,6 +2,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=hugengseto&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
+<br><br>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="100"/>
 
