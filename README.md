@@ -34,6 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="Codeigniter" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/QGIS_logo%2C_2017.svg" alt="Quantum GIS" width="45" height="45"/>
 </p>
 
 <p align="center">
